@@ -72,3 +72,8 @@ When you're all finished, write a `README` file detailing all steps required to 
 # Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+#How to start the project and update testcases
+1. The project can be downloaded or cloned from the repositry.
+2. Open Index.html file to see all the feeds & at the end of the page you will find jasmine testcases result.
+3.If you need to update any test cases, you can always go to jasmine/spec/feedreader.js to update the testcases.
+4.You need to have prior knowledge about jasmine,Javascript & Jquery to update the testcases.
